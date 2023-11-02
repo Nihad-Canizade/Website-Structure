@@ -195,7 +195,7 @@ nav{
 
 .sec5 div{
     height: 330px;
-    width: 652px;
+    width: 600px;
     background-color: red;
     margin-top: 150px;
 }
@@ -286,6 +286,7 @@ nav{
     justify-content: space-between;
     align-items: center;
     margin-top: 50px;
+    gap: 30px;
 }
 
 .sec7-2 div{
@@ -308,7 +309,7 @@ nav{
 }
 
 .sec8 div{
-    width: 650px;
+    width: 600px;
     height: 320px;
     background-color: blue;
     margin-top: 150px;
